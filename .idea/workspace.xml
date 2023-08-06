@@ -20,7 +20,15 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="release-1.0.0-ldh" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2TbLxJvD8Nqe7yezJy9w8G6g0Uh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -64,5 +72,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="master 브랜치" />
+    <option name="LAST_COMMIT_MESSAGE" value="master 브랜치" />
   </component>
 </project>
